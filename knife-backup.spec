@@ -9,7 +9,7 @@ Source0:	http://rubygems.org/downloads/%{name}-%{version}.gem
 URL:		https://github.com/mdxp/knife-backup
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
-Requires:	chef >= 0.10.10
+Requires:	knife >= 0.10.10
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
