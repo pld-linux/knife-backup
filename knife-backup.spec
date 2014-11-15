@@ -1,7 +1,7 @@
 Summary:	Chef knife plugins to help backup and restore chef servers
 Name:		knife-backup
 Version:	0.0.8
-Release:	0.3
+Release:	1
 License:	GPL v2+ or Ruby
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{name}-%{version}.gem
