@@ -1,11 +1,11 @@
 Summary:	Chef knife plugins to help backup and restore chef servers
 Name:		knife-backup
-Version:	0.0.10
+Version:	0.0.12
 Release:	1
 License:	Apache v2.0
 Group:		Development/Languages
-Source0:	http://rubygems.org/downloads/%{name}-%{version}.gem
-# Source0-md5:	bf69bba9c8caa111b675390e5cfabcf2
+Source0:	https://rubygems.org/downloads/%{name}-%{version}.gem
+# Source0-md5:	1614df249db189b66a06cb78872c9c5e
 URL:		https://github.com/mdxp/knife-backup
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
